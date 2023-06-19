@@ -37,7 +37,7 @@ As a software developer, I am adept in frameworks such as Rails, React, Redux, a
   </a>
 </p>
 
-## Projects
+## Featured Projects
 
 <a href="https://github.com/ziqi23/Grub-Globe-2">
 
@@ -58,9 +58,3 @@ As a software developer, I am adept in frameworks such as Rails, React, Redux, a
 	
 </a> 
 <br></br>
-
-## Github Stats
-
-  <p align="left">
-    <a href=""><img src="https://github-readme-stats.vercel.app/api?username=ziqi23&theme=tokyonight" height="192px"/></a>
-  </p>
