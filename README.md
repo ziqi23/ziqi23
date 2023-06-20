@@ -9,7 +9,7 @@
   </a>   
 
 
-<p >I’m a full-stack software engineer with a passion for both designing sleek and intuitive front end systems and developing readable, efficient and scalable code in the back end.
+<p>I’m a full-stack software engineer with a passion for both designing sleek and intuitive front end systems and developing readable, efficient and scalable code in the back end.
 
 I come from a background in public accounting. Having worked as a CPA at KPMG for several years prior to my transition, I bring with me a problem solving mentality, keen attention to detail, as well as the ability to clearly articulate ideas, contribute in a team environment and manage tight deadlines.
 
