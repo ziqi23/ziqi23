@@ -96,7 +96,6 @@ As a software developer, I am adept in frameworks such as Rails, React, Redux, a
 <br></br>
 
 <a href="https://github.com/ziqi23/FS-Project">
-
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ziqi23&repo=FS-Project&theme=tokyonight" />
 </a> 
 <br></br>
