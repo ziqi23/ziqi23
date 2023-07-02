@@ -91,7 +91,6 @@ As a software developer, I am adept in frameworks such as Rails, React, Redux, a
 
 <a href="https://github.com/ziqi23/Grub-Globe-2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ziqi23&repo=Grub-Globe-2&theme=tokyonight" />
-	
 </a>  
 <br></br>
 
