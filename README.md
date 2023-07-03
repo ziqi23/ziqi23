@@ -7,7 +7,7 @@
   </a>
   
    <a href="https://www.linkedin.com/in/ziqi-zou-cpa-2a877818a/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
   </a>   
 
 
