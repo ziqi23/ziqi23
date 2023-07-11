@@ -94,13 +94,13 @@ As a software developer, I am adept in frameworks such as Rails, React, Redux, a
 </a>  
 <br></br>
 
-<a href="https://github.com/ziqi23/FS-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ziqi23&repo=FS-Project&theme=tokyonight" />
+<a href="https://github.com/ziqi23/Zotion">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ziqi23&repo=Zotion&theme=tokyonight" />
 </a> 
 <br></br>
-<a href="https://github.com/ziqi23/JS-Project">
+<a href="https://github.com/ziqi23/Last-One-Standing">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ziqi23&repo=JS-Project&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ziqi23&repo=Last-One-Standing&theme=tokyonight" />
 	
 </a> 
 <br></br>
