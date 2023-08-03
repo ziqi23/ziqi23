@@ -1,4 +1,4 @@
-## Hi, I’m Ziqi Zou, Welcome to my profile!  
+## Hi, I’m Ziqi Zou, Welcome to my profile! 
 
 <p align ="center">
 	
