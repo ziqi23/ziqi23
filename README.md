@@ -1,7 +1,7 @@
 ## Hi, I’m Ziqi Zou, Welcome to my profile!
 
 <p align ="center">
-	
+
   <a href="mailto:brianzou1@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
   </a>
